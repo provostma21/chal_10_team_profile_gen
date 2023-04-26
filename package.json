@@ -1,0 +1,28 @@
+{
+  "name": "challenge_10_team_profile_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/provostma21/chal_10_team_profile_gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/provostma21/chal_10_team_profile_gen/issues"
+  },
+  "homepage": "https://github.com/provostma21/chal_10_team_profile_gen#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
