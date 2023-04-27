@@ -5,7 +5,7 @@ describe('Employee', () => {
         const e = new Employee("Jeremy", 1, "test@gmail.com");
         expect(e.name).toBe("Jeremy");
         expect(e.id).toBe(1);
-        expect(e.id).toBe("test@gmail.com");
+        expect(e.email).toBe("test@gmail.com");
     });
 
     it('Can receive a name via the getName() prompt.', () => {
