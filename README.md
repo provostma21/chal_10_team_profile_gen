@@ -17,6 +17,8 @@
 
   ## Usage
   First, install the dependencies in the package.json folder using one of the above commands. Then use "node index.js" to start the application. From there, just answer the prompts. You will find your generated html file located in the dist folder upon completion of the prompts.
+  
+[Untitled_ Apr 28, 2023 1_37 PM.webm](https://user-images.githubusercontent.com/107372103/235216557-625fe0f3-7ed9-4585-b22b-bde521f5956f.webm)
 
   ## Contribute
   Email me at the address down below.
